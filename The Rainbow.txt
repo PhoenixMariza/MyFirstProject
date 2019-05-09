@@ -6,4 +6,6 @@ Blue
 Green
 Yellow
 Red
+Purple
+Cornflowerblue
 These are the colors of the rainbow.
