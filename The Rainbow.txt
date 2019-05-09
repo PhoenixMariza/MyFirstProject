@@ -9,4 +9,5 @@ Red
 Purple
 Cornflowerblue
 Salmon
+Bluegreen
 These are the colors of the rainbow.
